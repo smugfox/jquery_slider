@@ -5,4 +5,6 @@ Learning jQuery kinda...  Followed this guys tutorial.  http://www.youtube.com/w
 
 Here's the finished product.  
 
+You can click the "next" and "previous" buttons to go through the pictures.  If you hover over an image, it'll stay at that image.  Images are rotated every 3 seconds.
+
 http://rfox.site44.com/slider/index.html
